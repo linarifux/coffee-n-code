@@ -1,0 +1,17 @@
+{
+  "name": "coffee-n-code",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "javascript",
+    "backend",
+    "coffee"
+  ],
+  "license": "ISC",
+  "author": "Naimul Islam",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
